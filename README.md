@@ -9,6 +9,6 @@ Para poder compilar el codigo se debe ejecutar el siguiente comando
 ```shell
 ./run.sh
 ```
-Al correr el programa se generará un archivo build que mostrará el juego y se veria asi
+Al correr el programa se generará una carpeta build que mostrará el juego y se veria asi
 
 ![Proyecto2DOOM](https://github.com/GarciaAlegria/Proyectograficas2/assets/84537086/e743508e-32ce-4106-a210-1146cb5b6932)
